@@ -1,0 +1,2 @@
+joint:lidar:vision
+-DCATKIN_DEVEL_PREFIX=/home/faith/Documents/FIRA24/devel -DCMAKE_INSTALL_PREFIX=/home/faith/Documents/FIRA24/install -G Unix Makefiles
